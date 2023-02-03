@@ -15,8 +15,17 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@fontsource/inter": "^4.5.15",
     "gatsby": "^5.5.0",
+    "gatsby-plugin-image": "^3.5.0",
+    "gatsby-plugin-sass": "^6.5.0",
+    "gatsby-plugin-theme-ui": "^0.15.4",
+    "gatsby-source-contentful": "^8.5.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.5",
+    "sass": "^1.58.0",
+    "theme-ui": "^0.15.4"
   }
 }
