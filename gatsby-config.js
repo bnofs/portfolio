@@ -6,6 +6,7 @@ module.exports = {
     title: `Design Portfolio`,
     siteUrl: `https://www.yourdomain.tld`,
   },
+  pathPrefix: "/portfolio",
   plugins: [
     "gatsby-plugin-theme-ui",
     "gatsby-plugin-sass",
