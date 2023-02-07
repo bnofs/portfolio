@@ -32,7 +32,7 @@ export default function Layout({ children }) {
       <div className="sidebar d-none d-lg-flex">
         <div className="bio-pic"></div>
         <div className="size-400-bold">Brendan Nofs</div>
-        <div className="size-200-regular">UX Designer</div>
+        <div className="size-200-regular">Product Designer</div>
         <div className="sidebar-items">
           <Link to="/" className="sidebar-item" activeClassName="active">
             Home
@@ -69,7 +69,7 @@ export default function Layout({ children }) {
         <div className="sidebar d-flex">
           <div className="bio-pic"></div>
           <div className="size-400-bold">Brendan Nofs</div>
-          <div className="size-200-regular">UX Designer</div>
+          <div className="size-200-regular">Product Designer</div>
           <div className="sidebar-items">
             <Link to="/" className="sidebar-item" activeClassName="active">
               Home

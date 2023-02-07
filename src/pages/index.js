@@ -13,7 +13,7 @@ const IndexPage = () => {
             {" "}
             I design (and code) design systems. This is a showcase of some of
             the work that I've accomplished over the past couple of years as a
-            UX Designer.
+            Product Designer.
           </div>
         </div>
       </div>

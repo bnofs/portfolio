@@ -20,7 +20,7 @@ const SkillsPage = () => {
         <h2>Current</h2>
         <div className="experience-card">
           <div className="nielsen-logo" />
-          <h3>UX Designer, Design Systems</h3>
+          <h3>Product Designer, Design Systems</h3>
           <p>
             In this role, I have become a <b>design system specialist</b>. I
             consider myself an expert in <b>Figma</b>, building a library of
