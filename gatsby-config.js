@@ -18,5 +18,12 @@ module.exports = {
         accessToken: `qPpvXn0FlsTxIEQnOapKw7Idy572Oa_dag8igb_SB-8`,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`inter:400,700`],
+        display: "swap",
+      },
+    },
   ],
 };

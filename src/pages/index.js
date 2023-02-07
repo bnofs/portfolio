@@ -1,5 +1,7 @@
 import * as React from "react";
 import Layout from "../components/Layout";
+import "@fontsource/inter/400.css";
+import "@fontsource/inter/700.css";
 
 const IndexPage = () => {
   return (
