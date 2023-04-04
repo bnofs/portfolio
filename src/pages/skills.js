@@ -26,7 +26,7 @@ const SkillsPage = () => {
             consider myself an expert in <b>Figma</b>, building a library of
             over 40 reusable components for our team of designers to increase
             their efficiency.{" "}
-            <Link to="/projects/advanced-component-building/">
+            <Link to="/portfolio/advanced-component-building/">
               View Project
             </Link>
           </p>
@@ -35,13 +35,13 @@ const SkillsPage = () => {
             guidance on meeting with <b>accessibility</b> guidelines (WCAG 2.2
             AA), we first started with extremely thought out foundations before
             even getting into components.{" "}
-            <Link to="/projects/design-system-foundations/">View Project</Link>
+            <Link to="/portfolio/design-system-foundations/">View Project</Link>
           </p>
           <p>
             I also constructed an entire documentation website for the design
             system, built with <b>Gatsby</b> & <b>Contentful</b>, to house all
             of the information for our system.{" "}
-            <Link to="/projects/nielsen-design-system-website/">
+            <Link to="/portfolio/nielsen-design-system-website/">
               View Project
             </Link>
           </p>
@@ -56,7 +56,7 @@ const SkillsPage = () => {
             individual products. I sharpened my skills as a visual designer and
             was able to get a lot of practice makin <b>wireframes</b>,{" "}
             <b>user flows</b>, and <b>prototyping</b> in Figma.
-            <Link to="/projects/nielsen-media-portal/">View Project</Link>
+            <Link to="/portfolio/nielsen-media-portal/">View Project</Link>
           </p>
         </div>
         <div className="experience-card">
@@ -65,13 +65,13 @@ const SkillsPage = () => {
           <p>
             The first part of my role involved front-end development, creating a
             number of features for the web platform Imgur.
-            <Link to="/projects/meh-vote-development/">View Project</Link>
+            <Link to="/portfolio/meh-vote-development/">View Project</Link>
           </p>
           <p>
             I also served in a product role, where developed my skills for
             higher-level thinking, and used my technical knowledge to help solve
             problems.
-            <Link to="/projects/imgur-subscription-model/">View Project</Link>
+            <Link to="/portfolio/imgur-subscription-model/">View Project</Link>
           </p>
         </div>
       </div>
