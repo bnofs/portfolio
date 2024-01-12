@@ -247,7 +247,7 @@ hr {
 }
 
 .banner {
-  background-image: url('../../public/static/hero-bg.jpg');
+  background-image: url('../images/hero-bg.jpg');
   min-height: $layout-500;
   background-size: cover;
   background-position: center top;
@@ -377,6 +377,14 @@ hr {
   .nielsen-logo {
     background-image: url('../images/nielsen.png');
     height: $space-550;
+    width: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: $space-600;
+  }
+  .fullstory-logo {
+    background-image: url('../images/fullstory.png');
+    height: $space-700;
     width: auto;
     background-size: contain;
     background-repeat: no-repeat;

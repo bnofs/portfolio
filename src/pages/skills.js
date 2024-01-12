@@ -16,8 +16,18 @@ const SkillsPage = () => {
       </div>
       <hr />
 
-      <div>        
-        // <h2>Previous</h2>
+      <div> 
+      <div className="experience-card">
+          <div className="fullstory-logo" />
+          <h3>Design Systems Lead</h3>
+          <p>
+          In this role, I led an effort to simplify an existing design system by restructuring files and components to align with Figma standards, improving naming conventions for easier component search, and enhancing overall usability. 
+          </p>
+          <p>
+          Additionally, to better optimize my available time, I created a template to delegate design system updates to six other product designers, conducted regular "design quality check" meetings to ensure consistent deliveries, and collaborated heavily with the engineering team to build new React components.
+          </p>
+
+        </div>       
         <div className="experience-card">
           <div className="nielsen-logo" />
           <h3>Product Designer, Design Systems</h3>
