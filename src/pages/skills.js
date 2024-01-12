@@ -8,7 +8,7 @@ const SkillsPage = () => {
       <div className="page-header">
         <h1>Skills & Experience</h1>
         <p>
-          At 25 years old, I have about five years of experience working on
+          At 26 years old, I have about five years of experience working on
           enterprise UI's. I started off my career more technical as a front-end
           developer before quickly transitioning into design, before even more
           recently specializing in design systems.
@@ -16,8 +16,8 @@ const SkillsPage = () => {
       </div>
       <hr />
 
-      <div>
-        <h2>Current</h2>
+      <div>        
+        // <h2>Previous</h2>
         <div className="experience-card">
           <div className="nielsen-logo" />
           <h3>Product Designer, Design Systems</h3>
@@ -46,7 +46,6 @@ const SkillsPage = () => {
             </Link>
           </p>
         </div>
-        <h2>Previous</h2>
         <div className="experience-card">
           <div className="nielsen-logo" />
 
