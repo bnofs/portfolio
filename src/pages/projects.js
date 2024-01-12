@@ -13,7 +13,7 @@ export default function ProjectPage({ data }) {
         {projects.map((project) => (
           <Link
             to={
-              "/projects/" +
+              "/portfolio/" +
               project.title.toLowerCase().replace(/\s/g, "-") +
               "/"
             }
