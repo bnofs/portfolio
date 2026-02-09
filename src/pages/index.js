@@ -30,19 +30,8 @@ const IndexPage = () => {
         </p>
         <p>
           I also do a bit of coding, which I studied in college and have used in
-          each of my roles over the past 5 years.. but I prefer to keep that as
+          each of my roles over the years.. but I prefer to keep that as
           my secret weapon.{" "}
-        </p>
-        <p>
-          Outside of work, I'm a vegan endurance athlete with strong interests
-          in sustainability and personal finance. My wife and I run an social
-          account called{" "}
-          <a href="https://www.instagram.com/oatletes/" target="_blank">
-            {" "}
-            The Oatletes
-          </a>{" "}
-          if you're interested in some good vegan eats or workout tips! Hit me
-          up if you want to chat!
         </p>
       </div>
     </Layout>
@@ -52,3 +41,4 @@ const IndexPage = () => {
 export default IndexPage;
 
 export const Head = () => <title>Brendan Nofs Portfolio</title>;
+
