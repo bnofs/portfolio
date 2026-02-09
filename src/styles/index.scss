@@ -390,16 +390,25 @@ hr {
     background-repeat: no-repeat;
     margin-bottom: $space-600;
   }
+  .cardinal-logo {
+    background-image: url('../images/cardinal-logo.png');
+    height: $space-800;
+    width: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: $space-600;
+    margin-left: -10px;
+  }
 }
 
 .bio-pic {
   background-image: url('../images/portland.png');
-  height: 96px;
-  width: 96px;
+  height: 75px;
+  width: 70px;
   background-size: contain;
-  border-radius: 100px;
+  border-radius: 16px;
   background-repeat: no-repeat;
-  margin-bottom: $space-300;
+  margin-bottom: 8px;
 }
 
 .hamburger-menu {
