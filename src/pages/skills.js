@@ -8,7 +8,7 @@ const SkillsPage = () => {
       <div className="page-header">
         <h1>Skills & Experience</h1>
         <p>
-          At 28 years old, I have over five years of experience working on
+          At 28 years old, I have over seven years of experience working on
           enterprise UI's. I started off my career more technical as a front-end
           developer before quickly transitioning into design, before even more
           recently specializing in design systems.
