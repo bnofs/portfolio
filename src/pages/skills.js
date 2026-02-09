@@ -8,7 +8,7 @@ const SkillsPage = () => {
       <div className="page-header">
         <h1>Skills & Experience</h1>
         <p>
-          At 26 years old, I have about five years of experience working on
+          At 28 years old, I have over five years of experience working on
           enterprise UI's. I started off my career more technical as a front-end
           developer before quickly transitioning into design, before even more
           recently specializing in design systems.
@@ -16,7 +16,17 @@ const SkillsPage = () => {
       </div>
       <hr />
 
-      <div> 
+      <div>
+        <div className="experience-card">
+          <div className="cardinal-logo" />
+          <h3>Design Systems Architect</h3>
+          <p>
+            Joining as the primary Figma expert during a design migration, I led the evolution of our design system from a single-product tool to an enterprise-wide standard for 100+ users. I architected a library of 40+ advanced, variable-driven components that prioritize responsiveness and multi-app scalability.
+          </p>
+          <p>
+            Beyond design, I bridged the engineering gap by pushing updates directly to the frontend Storybook library via Git. This end-to-end ownership transformed our workflow into a code-synced ecosystem, ensuring consistency from the initial canvas to the final production build.          
+          </p>
+        </div>   
       <div className="experience-card">
           <div className="fullstory-logo" />
           <h3>Design Systems Lead</h3>
